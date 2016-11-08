@@ -1,7 +1,7 @@
 .idea/*
-.lib/*
-.target/*
-.web/*
+lib/*
+target/*
+web/*
 
 *.class
 *.jar
