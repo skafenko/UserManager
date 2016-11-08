@@ -1,0 +1,8 @@
+.idea/*
+.lib/*
+.target/*
+.web/*
+
+*.class
+*.jar
+*.ear
